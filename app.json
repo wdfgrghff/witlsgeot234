@@ -1,0 +1,22 @@
+{
+    "name": "ovo",
+    "description": "ovo.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "3c938cda-426b-4a7e-a261-4fae91f8ef61"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/wdfgrghff/witlsgeot234/",
+    "repository": "https://github.com/wdfgrghff/witlsgeot234",
+    "stack": "container"
+}
